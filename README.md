@@ -27,7 +27,7 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
-
+                
 ![screenshot](./images/Screenshot--01.png)
 
 
@@ -58,7 +58,7 @@ Users should be able to:
                     
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Akinyemi4](https://www.frontendmentor.io/profile/Akinyemi4)
 
 ## Acknowledgments
 
