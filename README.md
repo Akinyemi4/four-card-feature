@@ -16,8 +16,6 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 - This is a challenge to build a four card feature section gotten from frontendmentor.io .
 ### The challenge
